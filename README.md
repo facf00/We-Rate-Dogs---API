@@ -1,2 +1,6 @@
-# We-Rate-Dogs---API
+# We Rate Dogs API
+
+
+
+
  
