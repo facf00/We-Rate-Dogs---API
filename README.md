@@ -4,7 +4,7 @@
 
 This is a description of the project.
 
-#Data Wrangling Report Gathering:
+## Data Wrangling Report Gathering:
 
 * To analyze the WeRateDogs Twitter account, we needed to gather data from different sources. First, we downloaded the WeRateDogs Twitter archive file (twitter_archive_enhanced.csv) manually from Udacity and saved it as a pandas DataFrame called "archive". This file contains data about each tweet, such as its text, timestamp, and rating.
 
