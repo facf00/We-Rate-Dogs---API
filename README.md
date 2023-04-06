@@ -12,4 +12,4 @@ This is a description of the project.
 
 * We also wanted to collect additional data about each tweet, such as the number of retweets and favorites. To do this, we used the Tweepy library to query the Twitter API for each tweet's JSON data. We stored the entire set of JSON data for each tweet in a file called "tweet_json.txt". We then extracted the desired data fields (tweet_id, retweet_count, and favorite_count) from the JSON data and created a pandas DataFrame called "twitter_api".
 
- *Finally, we merged the three data frames ("archive", "predict", and "twitter_api") into one DataFrame called "df_final" for assessment. This allowed us to perform data cleaning, quality assessment, and exploratory data analysis on the combined data set.
+ * Finally, we merged the three data frames ("archive", "predict", and "twitter_api") into one DataFrame called "df_final" for assessment. This allowed us to perform data cleaning, quality assessment, and exploratory data analysis on the combined data set.
